@@ -1,0 +1,19 @@
+{
+  "name": "xman",
+  "version": "1.0.0",
+  "description": "My delightful Nuxt.js project",
+  "author": "iponkan",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "ant-design-vue": "^1.1.10",
+    "nuxt": "^2.0.0",
+    "vue-concise-slider": "^3.4.2"
+  },
+  "devDependencies": {}
+}
