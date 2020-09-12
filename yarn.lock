@@ -4484,9 +4484,9 @@ node-emoji@^1.10.0:
     lodash.toarray "^4.4.0"
 
 node-fetch@^2.3.0, node-fetch@^2.6.0:
-  version "2.6.0"
-  resolved "https://registry.npm.taobao.org/node-fetch/download/node-fetch-2.6.0.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fnode-fetch%2Fdownload%2Fnode-fetch-2.6.0.tgz#e633456386d4aa55863f676a7ab0daa8fdecb0fd"
-  integrity sha1-5jNFY4bUqlWGP2dqerDaqP3ssP0=
+  version "2.6.1"
+  resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.6.1.tgz#045bd323631f76ed2e2b55573394416b639a0052"
+  integrity sha512-V4aYg89jEoVRxRb2fJdAg8FHvI7cEyYdVAh94HH0UIK8oJxUfkjlDQN9RbMx+bEjP7+ggMiFRprSti032Oipxw==
 
 node-libs-browser@^2.2.1:
   version "2.2.1"
@@ -6931,6 +6931,11 @@ vue-client-only@^2.0.0:
   version "2.0.0"
   resolved "https://registry.npm.taobao.org/vue-client-only/download/vue-client-only-2.0.0.tgz?cache=0&sync_timestamp=1566317270034&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fvue-client-only%2Fdownload%2Fvue-client-only-2.0.0.tgz#ddad8d675ee02c761a14229f0e440e219de1da1c"
   integrity sha1-3a2NZ17gLHYaFCKfDkQOIZ3h2hw=
+
+vue-concise-slider@^3.4.2:
+  version "3.4.4"
+  resolved "https://registry.yarnpkg.com/vue-concise-slider/-/vue-concise-slider-3.4.4.tgz#9b1c186e080ba314a002fc5e3a7974d2c13598eb"
+  integrity sha512-Nvn+Cbt6FPCjkiy0ccyfx++4/XKEo2jzUiUfzQX2zm2h7tjNk3wmrTZQelC7ZNaC6nh8I5Dh2nbgT1yZ3NLMCg==
 
 vue-hot-reload-api@^2.3.0:
   version "2.3.3"
